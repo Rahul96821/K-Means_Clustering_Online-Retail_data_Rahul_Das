@@ -1,4 +1,6 @@
 Customer Segmentation using RFM & Clustering
+
+
 📌 Project Overview
 
 This project applies RFM (Recency, Frequency, Monetary) analysis and clustering techniques to segment customers from an online retail dataset. The goal is to identify different customer groups and provide actionable insights for marketing strategies, retention, and revenue growth.

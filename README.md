@@ -1,9 +1,9 @@
 Customer Segmentation using RFM & Clustering
- Project Overview
+📌 Project Overview
 
 This project applies RFM (Recency, Frequency, Monetary) analysis and clustering techniques to segment customers from an online retail dataset. The goal is to identify different customer groups and provide actionable insights for marketing strategies, retention, and revenue growth.
 
-Dataset
+📂 Dataset
 
 The dataset is an Online Retail transactional dataset containing customer purchase behavior.
 
@@ -25,7 +25,7 @@ Frequency (F): How often a customer makes purchases
 
 Monetary (M): Total spending of the customer
 
-Methodology
+⚙️ Methodology
 
 Data Cleaning & Preprocessing
 
@@ -49,7 +49,7 @@ Optimal number of clusters: 3
 
 Visualized results using boxplots for RFM distributions across clusters
 
-Results & Insights
+📊 Results & Insights
 
 Cluster 0: Low spenders, low frequency, high recency → Inactive/low-value customers
 
@@ -57,7 +57,7 @@ Cluster 1: Medium spenders, moderate frequency → Potential/regular customers
 
 Cluster 2: High spenders, frequent buyers, recent activity → Loyal & high-value customers
 
- Business Applications
+🎯 Business Applications
 
 Cluster 0: Re-engagement campaigns (discounts, reminders)
 
@@ -65,13 +65,13 @@ Cluster 1: Loyalty programs & cross-selling
 
 Cluster 2: VIP services & exclusive offers to retain high-value customers
 
-Tech Stack
+🛠️ Tech Stack
 
 Python
 
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
 
- Conclusion
+🚀 Conclusion
 
 This project demonstrates how RFM analysis combined with clustering can help businesses:
 
